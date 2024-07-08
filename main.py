@@ -109,7 +109,7 @@ def convert_to_dpi(image_width: int) -> int:
     return round(image_width / 8.5)
 
 
-def remove(submission: praw.models.Submission, image_width: int) -> None:
+def reject(submission: praw.models.Submission, image_width: int) -> None:
     submission.mod.remove(spam=False)
     submission.mod.flair(
         text="Post Removed: Low Quality Image",
@@ -128,7 +128,7 @@ def remove(submission: praw.models.Submission, image_width: int) -> None:
         title=REMOVAL_MESSAGE_SUBJECT,
         message=REMOVAL_MESSAGE,
     )
-    logging.info("REMOVED, %s, %d, %s", submission.id, image_width, submission.author)
+    logging.info("REJECTED, %s, %d, %s", submission.id, image_width, submission.author)
 
 
 def approve(submission: praw.models.Submission, image_width: int) -> None:
@@ -153,7 +153,7 @@ def process(submission: praw.models.Submission) -> None:
         )
 
     elif image_width < MIN_IMAGE_WIDTH_PX:
-        remove(submission, image_width)
+        reject(submission, image_width)
 
     else:
         approve(submission, image_width)
