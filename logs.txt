@@ -93,3 +93,4 @@
 [07-09 04:14] REJECTED, 1dz6048, 850, BurnerResume
 [07-09 05:41] APPROVED, 1dz8ffe, 5100, MountainTurtle
 [07-09 06:19] APPROVED, 1dz9fra, 5100, rvlTWeF
+[07-09 06:24] REJECTED, 1dz9kgf, 2550, ZEROSiDS
