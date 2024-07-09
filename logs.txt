@@ -68,3 +68,4 @@
 [07-08 10:53] APPROVED, 1dymncy, 5100, throwaway1555467
 [07-08 11:36] APPROVED, 1dynomi, 5100, ParkingCell5198
 [07-09 01:00] APPROVED, 1dypdgo, 5100, ExChobo
+[07-09 01:08] REJECTED, 1dypok1, 1080, _Bentai_
