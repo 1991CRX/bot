@@ -96,3 +96,4 @@
 [07-09 06:24] REJECTED, 1dz9kgf, 2550, ZEROSiDS
 [07-09 06:33] APPROVED, 1dz9so1, 5100, EnglJaco
 [07-09 06:53] APPROVED, 1dzaahz, 5100, ZEROSiDS
+[07-09 07:45] REJECTED, 1dzbjk3, 713, UnscrupulousAlien
