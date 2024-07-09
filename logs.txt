@@ -81,3 +81,5 @@
 [07-09 10:31] APPROVED, 1dyyy4t, 5100, BeemosKnees
 [07-09 11:57] APPROVED, 1dz0k4l, 5100, NoExcitement3160
 [07-09 11:57] REJECTED, 1dz0jxa, 850, Doctor_Bananabread
+[07-09 12:22] REJECTED, 1dz0qku, 1654, Hao_Bro
+[07-09 12:22] APPROVED, 1dz0oom, 5100, Doctor_Bananabread
