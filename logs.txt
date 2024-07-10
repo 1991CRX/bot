@@ -118,3 +118,4 @@
 [07-10 07:35] APPROVED, 1dzptgc, 5100, TheBaconDaddy
 [07-10 08:32] APPROVED, 1dzqijl, 5100, alimajr
 [07-10 09:52] REJECTED, 1dzrsky, 1678, Soggy_Recognition873
+[07-10 10:14] REJECTED, 1dzs308, 839, Soggy_Recognition873
