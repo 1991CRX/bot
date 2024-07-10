@@ -13,7 +13,7 @@ REMOVAL_COMMENT = """
 # Post Removed: Low Quality Image
 \n
 ---
-**Hi /u/{author}, please follow the instructions below and submit a higher quality image in a new post:**  
+**Hi /u/{author}, please follow the instructions below and submit a higher quality image in a new post.**  
 \n
 ---
 \n
@@ -39,7 +39,7 @@ REMOVAL_COMMENT = """
 """
 
 REMOVAL_MESSAGE = """
-**please follow the instructions below and submit a higher quality image in a new post:**  
+**please follow the instructions below and submit a higher quality image in a new post.**  
 \n
 ---
 \n
