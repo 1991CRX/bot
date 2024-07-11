@@ -161,3 +161,5 @@
 [07-11 04:11] APPROVED, 1e0sn48, 5100, Fancy_Tower7454
 [07-11 04:44] APPROVED, 1e0thbn, 4961, Deveshase
 [07-11 04:59] APPROVED, 1e0tsfq, 4961, ShakeBoba
+[07-11 05:25] REJECTED, 1e0ud23, 696, Express_Elevator7348
+[07-11 05:25] APPROVED, 1e0u2uv, 5100, Next-Juice2698
