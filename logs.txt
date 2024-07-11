@@ -141,3 +141,4 @@
 [07-11 12:13] APPROVED, 1e0bakn, 5100, CellularPotato
 [07-11 12:14] APPROVED, 1e0b84f, 5100, ZackMcCool
 [07-11 12:30] APPROVED, 1e0bnap, 5100, TaterSkins
+[07-11 12:49] REJECTED, 1e0c2k2, 1700, -jeep-
