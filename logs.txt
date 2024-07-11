@@ -136,3 +136,4 @@
 [07-10 11:24] REJECTED, 1e0a6tv, 850, Zefphyrz
 [07-10 11:27] APPROVED, 1e0ab38, 5100, Zefphyrz
 [07-10 11:35] APPROVED, 1e0ahf8, 5100, pablo0000o
+[07-11 12:01] REJECTED, 1e0b0kr, 1306, CellularPotato
