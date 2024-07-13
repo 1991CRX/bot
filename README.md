@@ -28,3 +28,23 @@ To add a new development dependency, run:
 ```bash
 poetry add --group dev PACKAGE
 ```
+
+To format the code, run:
+```bash
+black src
+```
+
+To sort the imports, run:
+```bash
+isort src
+```
+
+To lint the code, run:
+```bash
+ruff check src
+```
+
+To statically type-check the code, run:
+```bash
+pyright src
+```
