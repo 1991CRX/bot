@@ -1,21 +1,19 @@
 import logging
 import os
+import pathlib
 import sys
 
 import praw
+import praw.models
 
 SUB_NAME = os.environ["SUB_NAME"]
 MIN_IMAGE_WIDTH_PX = 3100
 NUM_POSTS_TO_PROCESS = 10
 REMOVAL_MESSAGE_SUBJECT = "LOW QUALITY IMAGE"
 
-REMOVAL_COMMENT = """ 
-
-"""
-
-REMOVAL_MESSAGE = """
-
-"""
+src_path = pathlib.Path(__file__).parent
+REMOVAL_COMMENT = (src_path / "removal_comment.md").read_text()
+REMOVAL_MESSAGE = (src_path / "removal_message.md").read_text()
 
 
 def setup_logger() -> None:
@@ -40,7 +38,6 @@ def create_reddit_instance() -> praw.Reddit:
             user_agent=os.environ["USER_AGENT"],
             ratelimit_seconds=600,
         )
-
     except Exception as e:
         logging.error("Failed to authenticate: %s", e)
         sys.exit()
@@ -53,7 +50,6 @@ def extract_width(selftext: str) -> int:
         extracted_string = selftext.split("width=")[1].split("&")[0]
         width = int(extracted_string)
         return int(width)
-
     except IndexError:
         return -1
 
@@ -115,7 +111,7 @@ def process(submission: praw.models.Submission) -> None:
 if __name__ == "__main__":
     setup_logger()
     reddit = create_reddit_instance()
-    subreddit = reddit.subreddit(SUB_NAME)
+    subreddit: praw.models.Subreddit = reddit.subreddit(SUB_NAME)
 
     for submission in subreddit.new(limit=NUM_POSTS_TO_PROCESS):
         process(submission)
