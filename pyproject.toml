@@ -8,15 +8,13 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
-praw = "^7.7.1"  # for Reddit API
+praw = "^7.7.1"   # for Reddit API
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.4.2"    # to format the code
 ruff = "^0.5.1"      # to lint the code
-ipython = "^8.26.0"  # for interactive development
 isort = "^5.13.2"    # to sort imports
 pyright = "^1.1.371" # for static type checking
-
 
 [tool.black]
 line-length = 88 # maximum line length
