@@ -16,3 +16,19 @@ ruff = "^0.5.1"      # to lint the code
 ipython = "^8.26.0"  # for interactive development
 isort = "^5.13.2"    # to sort imports
 pyright = "^1.1.371" # for static type checking
+
+
+[tool.black]
+line-length = 88 # maximum line length
+preview = true # to allow enable-unstable-feature
+enable-unstable-feature = [
+    "string_processing",
+] # to break strings into multiple lines
+
+[tool.isort]
+profile = "black"
+
+[tool.pyright]
+reportIncompatibleVariableOverride = false # disable this error type
+reportIncompatibleMethodOverride = false   # disable this error type
+ignore = ["**/tinytex-release/"]
