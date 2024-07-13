@@ -205,3 +205,4 @@
 [07-13 04:22] APPROVED, 1e21ich, 5100, OW_Monkey
 [07-13 05:00] APPROVED, 1e228aa, 5100, gojasper01
 [07-13 05:53] APPROVED, 1e231ub, 5100, mynameismelonhead
+[07-13 06:33] REJECTED, 1e23ogx, 706, Regular_Recording803
