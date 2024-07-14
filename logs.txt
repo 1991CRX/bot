@@ -237,3 +237,5 @@
 [07-14 04:55] REJECTED, 1e2u08k, 814, Jenny-Di
 [07-14 05:31] APPROVED, 1e2udxd, 5100, Jenny-Di
 [07-14 09:13] APPROVED, 1e2xx68, 4961, Silver-Push-9307
+[07-14 02:12] REJECTED, 1e33660, 850, Regular_Recording803
+[07-14 02:12] APPROVED, 1e33374, 4958, fat_fun_xox
