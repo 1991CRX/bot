@@ -255,3 +255,4 @@
 [07-15 04:51] REJECTED, 1e3mb7q, 850, soaphandler
 [07-15 05:20] APPROVED, 1e3ms2b, 5100, soaphandler
 [07-15 06:21] APPROVED, 1e3nj3l, 5100, RlPsoul
+[07-15 06:39] REJECTED, 1e3nyga, 850, Jonzoo121
