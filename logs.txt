@@ -257,3 +257,4 @@
 [07-15 06:21] APPROVED, 1e3nj3l, 5100, RlPsoul
 [07-15 06:39] REJECTED, 1e3nyga, 850, Jonzoo121
 [07-15 06:52] APPROVED, 1e3o7iq, 5100, Jonzoo121
+[07-15 09:12] REJECTED, 1e3q6ul, 1292, anklecode
