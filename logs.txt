@@ -266,3 +266,4 @@
 [07-15 02:52] APPROVED, 1e3wmj6, 5100, virgil0h
 [07-15 02:58] APPROVED, 1e3wstx, 5100, Swimming_Tangelo8423
 [07-15 03:06] APPROVED, 1e3x25v, 5100, yurajoh
+[07-15 03:54] REJECTED, 1e3y6hg, 850, Interesting_Good8181
