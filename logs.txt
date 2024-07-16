@@ -292,3 +292,4 @@
 [07-16 03:18] APPROVED, 1e4ebu8, 5100, s118827
 [07-16 06:32] APPROVED, 1e4hjnw, 5100, MysteriousSpecific58
 [07-16 07:00] APPROVED, 1e4i4ox, 5100, yelly4ce
+[07-16 09:28] REJECTED, 1e4kb5u, 656, Capable-Gate-4980
