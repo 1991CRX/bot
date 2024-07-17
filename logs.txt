@@ -320,3 +320,4 @@
 [07-17 05:51] REJECTED, 1e5am2y, 2550, ProbassFish
 [07-17 06:15] APPROVED, 1e5b0uw, 5100, julythefourth22
 [07-17 10:24] APPROVED, 1e5eq45, 5100, CANITEZ_17
+[07-17 01:14] REJECTED, 1e5hwbc, 850, entropy_86
