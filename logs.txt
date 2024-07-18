@@ -357,3 +357,4 @@
 [07-18 08:54] APPROVED, 1e6lum5, 5100, AslanJo
 [07-18 09:15] APPROVED, 1e6m62d, 5100, synthetic_potatoes
 [07-18 09:54] APPROVED, 1e6n8r2, 5100, shshsjsksksjksjsjsks
+[07-18 10:20] REJECTED, 1e6nmtb, 3060, HomelessCompSciMajor
