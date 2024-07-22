@@ -407,3 +407,5 @@
 [07-22 03:46] APPROVED, 1e9hj22, 5100, lKingKash
 [07-22 06:31] REJECTED, 1e9ldbn, 1004, Swimming_One_2764
 [07-22 06:46] APPROVED, 1e9luxy, 5100, Swimming_One_2764
+[07-22 07:12] REJECTED, 1e9milp, 610, Pink-Domo-
+[07-22 07:12] APPROVED, 1e9mfdc, 5100, wompr
