@@ -405,3 +405,4 @@
 [07-22 02:37] APPROVED, 1e9fuc3, 5100, confused_scientist
 [07-22 02:43] APPROVED, 1e9fwkq, 5100, sniorjam
 [07-22 03:46] APPROVED, 1e9hj22, 5100, lKingKash
+[07-22 06:31] REJECTED, 1e9ldbn, 1004, Swimming_One_2764
