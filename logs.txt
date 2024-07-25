@@ -473,3 +473,4 @@
 [07-25 02:29] APPROVED, 1ebjiuz, 5100, Miku_in_a_taco
 [07-25 04:42] REJECTED, 1ebm50t, 655, Jaxx2456
 [07-25 04:54] APPROVED, 1ebmfmm, 5100, broski2002
+[07-25 05:44] REJECTED, 1ebn8qz, 850, F3ztive
