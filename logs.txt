@@ -572,3 +572,4 @@
 [07-28 12:33] APPROVED, 1eduv2f, 5100, WandererBuddha
 [07-28 01:52] APPROVED, 1edvd1g, 5100, Chezzymann
 [07-28 02:50] REJECTED, 1edxdb8, 806, Realistic_Chart_3960
+[07-28 06:36] REJECTED, 1ee13hr, 850, Realistic_Chart_3960
