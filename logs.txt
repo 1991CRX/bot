@@ -574,3 +574,4 @@
 [07-28 02:50] REJECTED, 1edxdb8, 806, Realistic_Chart_3960
 [07-28 06:36] REJECTED, 1ee13hr, 850, Realistic_Chart_3960
 [07-28 07:08] REJECTED, 1ee1m6p, 1128, CanadianVis1onary
+[07-28 07:20] REJECTED, 1ee1rws, 1214, CanadianVis1onary
