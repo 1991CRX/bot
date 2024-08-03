@@ -128,12 +128,14 @@ def reject(submission: praw.models.Submission, image_width: int) -> None:
         title=REMOVAL_MESSAGE_SUBJECT,
         message=REMOVAL_MESSAGE,
     )
-    logging.info("REJECTED, %s, %d, %s", submission.id, image_width, submission.author)
+    logging.info("REJECTED, %s, %d, %s", submission.id,
+                 image_width, submission.author)
 
 
 def approve(submission: praw.models.Submission, image_width: int) -> None:
     submission.mod.approve()
-    logging.info("APPROVED, %s, %d, %s", submission.id, image_width, submission.author)
+    logging.info("APPROVED, %s, %d, %s", submission.id,
+                 image_width, submission.author)
 
 
 def process(submission: praw.models.Submission) -> None:
