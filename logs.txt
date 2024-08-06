@@ -682,3 +682,4 @@
 [08-06 07:36] REJECTED, 1elqtjt, 651, InfinityStyle
 [08-06 07:42] REJECTED, 1elr16h, 586, Ok-Athlete-520
 [08-06 08:30] APPROVED, 1els7ht, 5100, Ok-Athlete-520
+[08-06 08:54] REJECTED, 1elsvcv, 2550, VSandsV
