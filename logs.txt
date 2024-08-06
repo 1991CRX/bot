@@ -683,3 +683,5 @@
 [08-06 07:42] REJECTED, 1elr16h, 586, Ok-Athlete-520
 [08-06 08:30] APPROVED, 1els7ht, 5100, Ok-Athlete-520
 [08-06 08:54] REJECTED, 1elsvcv, 2550, VSandsV
+[08-06 09:27] REJECTED, 1eltn1w, 1025, Specific-Barber5426
+[08-06 09:27] REJECTED, 1eltmdd, 1100, Creepy-Database-661
