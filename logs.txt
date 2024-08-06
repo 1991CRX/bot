@@ -680,3 +680,4 @@
 [08-06 06:01] APPROVED, 1eloj8i, 5100, osa2020
 [08-06 07:29] APPROVED, 1elqqaq, 5100, fortnie7564
 [08-06 07:36] REJECTED, 1elqtjt, 651, InfinityStyle
+[08-06 07:42] REJECTED, 1elr16h, 586, Ok-Athlete-520
