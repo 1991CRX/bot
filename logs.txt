@@ -713,3 +713,4 @@
 [08-07 07:54] APPROVED, 1em61ap, 5100, NavXIII
 [08-07 11:17] APPROVED, 1em947u, 5100, RandomStuffGo123
 [08-07 12:56] APPROVED, 1emasb1, 5100, Moist_Contact_2202
+[08-07 01:47] REJECTED, 1emc7mp, 850, Far-Profession4150
