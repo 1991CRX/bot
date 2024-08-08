@@ -733,3 +733,4 @@
 [08-08 05:00] APPROVED, 1emxe4l, 5100, dannydyl
 [08-08 08:14] APPROVED, 1en0d0r, 5100, FondantSmart7429
 [08-08 10:29] APPROVED, 1en29hg, 5100, Superb-Asparagus1742
+[08-08 10:37] REJECTED, 1en2j4z, 1275, RedditMuchWow
